@@ -1,4 +1,4 @@
-````markdown
+
 # 🐍 PyStealthScanner
 
 ![Language](https://img.shields.io/badge/Language-Python3-blue)
